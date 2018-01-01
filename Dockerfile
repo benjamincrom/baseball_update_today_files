@@ -13,4 +13,3 @@ RUN apt update && \
 
 EXPOSE 80
 CMD /usr/sbin/cron
-
